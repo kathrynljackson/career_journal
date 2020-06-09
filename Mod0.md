@@ -10,6 +10,8 @@ education will allow me to have the job that I want and be able to complete task
 able to help my classmates, making them more willing to help me.
 
 
+
+
 ## 2. As you start this new career, what is one of your strengths and how do you know?
 
 One of my strengths is my compulsive need to solve problems that I think I'm capable of solving. If a teacher gives me 
@@ -19,6 +21,8 @@ that needed me. I was usually successful and was even able to show my coworkers 
 to other questions.
 
 
+
+
 ## 3.Describe how you work best (conditions, environment, preferences, etc.):
 
 I work best in a quiet environment. I have sensory processing disorder so many environments that most people would deem 
@@ -26,12 +30,18 @@ normal are chaotic to me. I have learned to use different tactics that make it e
 the people around me. For instance, I use noise isolating headphones. I do not play sound on them while I work, so the noise arround me is dampened. This allows me to concentrate better, remain calm, and prevents me from accidentally ignoring the people around me due to complete noise cancellation or loud volumes that may come from playing audio.
 
 
+
+
 ## 4. As you start this new career, what is your greatest area of improvement when it comes to your professional skills?
 
 My biggests area of improvement is currently my lack of knowledge when it comes to the vocabulary involved in programming. I feel that I have been able to pick up the concepts and apply them, but I find myself looking up the meanings of terms during assignments and lessons in order to write them down and remember them. I have been trying to combat this struggle by doing research on the session topics before class. This gives me time to practice the coding strategies that we will be working on. Since doing this, I have been able to be much more active during class and I have enjoyed interacting with my classmates during breakout sessions more than I was before. Instead of being nervous about not being able to accomplish a task, I am aware enough of the concept and meanings of terms to be able to work with my classmates on solving problems. 
 
 
+
+
 ## 5. How will developing a deeper understanding of your strengths and working preferences benefit you as a software developer?
+
+Understanding my strengths and working preferences will help me understand how I learn best. This will make picking up new concepts easier for me because I will know what strategies work best for me. This deeper understanding will also give me the insight to avoid burnout and overstimulation. I will be able to set limits for myself that make me a more efficient learner, and ultimately a more efficient worker.
 
 
 
