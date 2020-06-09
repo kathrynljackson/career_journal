@@ -1,5 +1,5 @@
 ## 1. When you've worked towards a goal in the past, what systems or tools have been helpful for 
-## you in accomplishing that goal? How could you adapt those same systems/tools to use while at Turing?
+you in accomplishing that goal? How could you adapt those same systems/tools to use while at Turing?
 
 Whenever I work towards a goal, I focus on the logical reasoning as to why I should complete the goal. If it is a **want**, 
 working towards the goal comes naturally. If the goal involves a **need**, then there's a chance that the process
