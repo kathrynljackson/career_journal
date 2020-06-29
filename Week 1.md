@@ -9,6 +9,7 @@ I have learned how to cook new food thanks to extra spare time during quarantine
 
 ### What is something you know about (list some knowledge/expertise you have)?
 
+I have a few special interests that I know a lot about and enjoy researching, the two most prominent being animals and comic book characters. I also have a professional level of knowledge in the field of education since I was a teacher for six years. 
 
 
 ### What is something you have a natural ability to do well (list a talent)?
