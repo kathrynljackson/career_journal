@@ -4,7 +4,7 @@
 
 ### What is something you have learned to do well (list a skill)?
 
-I have learned how to cook new food thanks to extra spare time during quarantine. 
+I have learned how to cook new food thanks to extra spare time during quarantine. While I was taught how to cook when I was young, I wasn't exposed to a great variety of food. I love that technology allows me to research new recipes and to reach out to friends from different cultures than my own. 
 
 
 ### What is something you know about (list some knowledge/expertise you have)?
