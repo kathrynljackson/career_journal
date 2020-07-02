@@ -12,6 +12,8 @@ This makes a lot of sense to me. I often have to explain this concept to people 
 ## Once a person becomes aware of their biases what actions could be taken to change their biases?
 The next step is to learn what affects your biases have, then they should make changes to their thinking and behavior to eliminate their negative effects.
 
+## Experience Statements and Reflection Questions
+
 https://docs.google.com/document/d/1nYhtlDPOYV_aVKsV5GqKUE2G4NYKhLyVy-e9O9TqKp8/edit?usp=sharing
 
 ## Who is the Developer you want to be? 
