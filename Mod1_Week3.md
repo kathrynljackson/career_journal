@@ -3,6 +3,7 @@
 ### Reading
 
 https://jamesclear.com/identity-based-habits
+
 https://jamesclear.com/habit-triggers
 
 
@@ -26,8 +27,15 @@ I would like to be known as someone who is dependable. This is a phrase that has
 
 * wake up
 * turn off alarm
-* let the dogs outside
-* check social media
+* +let the dogs outside
+* =check social media
+* +let the dogs inside
+* +cuddle with dogs
+* +alarm to get ready goes off
+* +get dressed/ready
+* go to computer and check slack
+* make breakfast
+* start class
 
 
 ### Pick 1 new habit you'd like to build and create an implementation intention following this template: "I will [BEHAVIOR] at [TIME] in [LOCATION]." Then, stack the habit onto something you already do: "After [CURRENT HABIT], I will [NEW HABIT]." (Hint: make this highly specific and immediately actionable)
