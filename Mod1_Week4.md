@@ -37,3 +37,18 @@ What is the basic threshold that your new career must meet after Turing? What wo
 6. Test –- solutions
 
 Based on this week of reflections, write out your initial vision statement for your career:
+
+### Small Group Discussion Notes
+
+Curiosity: what does a software developer actually do? What do you already know? What else do you need to find out? How could you do that?
+
+*coding, developing software, problem solving; talking to mentors, build a network*
+
+Bias to action: what step will you try out first to find out more? 
+
+*using the networking opportunities, (all hands), saving resources* 
+
+Radical collaboration: share one of the problems you identified in your earlier journal reflection when it comes to health/work/play/love; use this as an opportunity to vet solutions from your group -- “how might you tackle this problem?”
+* Group members: opportunity to empathize with the user to think about solutions
+
+*consistency, site blockers, scheduling*
