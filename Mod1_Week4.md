@@ -6,11 +6,16 @@
 * Health: how you answer “how are you”; intersection of physical, mental, and emotional health
     * How would you rate your overall health on a scale of 1-5? How do you currently make time for activities associated with your health? What is a small change you could make here to readjust your health ratings?
     
+*I would rate my health as a 4 due to chronic health conditions. I make time for my health by scheduling my appointments and planning out nutritious meals in advance. Consistency is the beast way that I can personally continue to increase my health ratings.* 
+    
 * Work: what you do
     * Make a short list of all the ways you work right now; How much value do each of those things bring to your life? How are those activities purposeful for you?
     
+*Turing classes are most of what I do for work. I also take care of my animals. Both of these things bring me joy in different ways. Turing gives me a sense of accomplishment, while my animals give me a sense of peace.*
+    
 * Play: what brings you joy? Think about joy just for the pure sake of doing it; everyone benefits from this kind of play 
     * What activities do you do that bring you joy throughout an average week? In what ways could you make a small change to bring more joy into your life?
+*Reading, playing video games, talking to my friends online, and spending time with my partner makes me happy. I need to schedule my work time better to maximize my leisure time. 
     
 * Love: sense of connection; who are the people who matter in your life and how is love flowing to and from you and them?
     * How does love currently show up in your life? How do you show love to others right now? What adjustments would you like to make in this area?
