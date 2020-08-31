@@ -3,25 +3,6 @@
 ### Mod 2 Week 2: Professional Storytelling & Branding <a name="week-2"></a>
 Answer the below questions in a separate gist and link them into your career journal using this template:
 
-## Journal Activity:
-Reflect on how you’ve spent your time thus far at Turing to gauge your engagement and energy:
-
-**When have you been excited, focused, and enjoyed your work?**
-
-I get most excited when I feel like I am making measureable progress.
-
-**When have you felt bored, restless, or unhappy?**
-
-I tend to get bored when I'm either not performing an action or when the content being taught is currently too hard for me to mentally apply to my background knowledge. 
-
-**When do you feel energized in your work?**
-
-I feel energized when there is success based on my effort, understanding, or deliverable work.
-
-**When is your energy drained?**
-
-My energy is drained when I spend a lot of time and make no progress.
-
 
 ## Week 2: [Link here to your gist]
 - [ ] (completed)
