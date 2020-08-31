@@ -1,12 +1,32 @@
 ### Mod 2 Week 3: Job Search Strategies <a name="week-3"></a>
 Answer the below questions in a separate gist and link them into your career journal using this template:
 
-Week 3: [Link here to your gist]
+## Journal Activity:
+Reflect on how you’ve spent your time thus far at Turing to gauge your engagement and energy:
+
+**When have you been excited, focused, and enjoyed your work?**
+
+I get most excited when I feel like I am making measureable progress.
+
+**When have you felt bored, restless, or unhappy?**
+
+I tend to get bored when I'm either not performing an action or when the content being taught is currently too hard for me to mentally apply to my background knowledge. 
+
+**When do you feel energized in your work?**
+
+I feel energized when there is success based on my effort, understanding, or deliverable work.
+
+**When is your energy drained?**
+
+My energy is drained when I spend a lot of time and make no progress.
+
+## Week 3: [Link here to your gist]
 - [ ] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
+
 
 1. Assess your habits from week 2: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen?
 
