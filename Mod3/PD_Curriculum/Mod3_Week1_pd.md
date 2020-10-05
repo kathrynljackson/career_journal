@@ -20,7 +20,7 @@ If you will not be able to complete your journal this week, please provide an up
 
 ### 2. Build your resume
 - What will you emphasize in your resume that directly relates to your targeted industries?
-- Pick a template from those listed in the Templates section here
+- Pick a template from those listed in the Templates section [here](https://careerdev.turing.io/resources/resume_resources)
 - Order your content in this way:
 - Header (Name + Software Developer OR Back End Engineer OR Front End Engineer, etc.)
 - Contact info
@@ -28,7 +28,7 @@ If you will not be able to complete your journal this week, please provide an up
 - Skills
 - Projects
 - Experience
-- Education * Check out other resources here including the Resume Checklist * Link to your resume or include a screenshot here:
+- Education * Check out other resources [here](https://careerdev.turing.io/resources/resume_resources) including the Resume Checklist * Link to your resume or include a screenshot here:
 
 ### 3. Upload your resume to CV Compiler by following these steps:
 - Go to https://cvcompiler.com/students/turingschool
@@ -46,4 +46,5 @@ If you will not be able to complete your journal this week, please provide an up
 - What do you want this portfolio to say about you?
 - How will you continue to add to this to portray your story and showcase the kind of work that demonstrates your brand?
 
-### 5. Ian’s workshop this week is designed to help you break down your interest in specific industries even further by exploring their tech stacks to decide if you want to utilize any of their tools in upcoming projects. Make a copy of his template here and post a link to your copy here to show what research you’ve completed. You can also link this research to your Huntr board.
+### 5. Ian's Workshop
+Ian’s workshop this week is designed to help you break down your interest in specific industries even further by exploring their tech stacks to decide if you want to utilize any of their tools in upcoming projects. Make a copy of his [template](https://docs.google.com/spreadsheets/d/1Ncn2w6l3SaXOM71ZHcBPutxCoFOhHNlDa56Xuzz0SHs/edit#gid=0) here and post a link to your copy here to show what research you’ve completed. You can also link this research to your Huntr board.
