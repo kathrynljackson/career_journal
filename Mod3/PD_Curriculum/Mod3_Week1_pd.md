@@ -1,7 +1,7 @@
 # Mod 3 Week 1: Professional Storytelling II: Resumes & Portfolios
 Answer the below questions in a separate gist and link them into your career journal using this template:
 
-## Week 1: [Link here to your gist]
+## [Week 1:](https://github.com/kathrynljackson/career_journal/blob/master/Mod3/PD_Curriculum/Mod3_Week1_pd.md)
 
 - [ ] completed
 - [ ] partially complete
