@@ -4,18 +4,29 @@ Answer the below questions in a separate gist and link them into your career jou
 ## [Week 1:](https://github.com/kathrynljackson/career_journal/blob/master/Mod3/PD_Curriculum/Mod3_Week1_pd.md)
 
 - [ ] completed
-- [ ] partially complete
+- [x] partially complete
 - [ ] not started
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you’ll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track):
 
 ### 1. Refine your career vision: 
-- What are the values that will drive your job search? 
-- What are your goals for your job search? 
-- What kind of role do you see yourself pursuing in your job search? 
-- Based on your latest version of your career vision, list the top 3-5 industries and companies you’ll pursue in your job search as of right now. 
-- Why did you pick these industries/companies? 
+- What are the values that will drive your job search?
+  - Equality
+  - Community Outreach
+  - Salary
+- What are your goals for your job search?
+  - Find more than one potential job that is a good fit for me
+  - Being able to choose from more than one opportunity
+- What kind of role do you see yourself pursuing in your job search?
+  - I would like to start as soon as possible, remaining actie so that I can find multiple job opportunities. 
+- Based on your latest version of your career vision, list the top 3-5 industries and companies you’ll pursue in your job search as of right now.
+  - Education
+  - Non profit
+  - Politics 
+- Why did you pick these industries/companies?
+  - These are three industries that appeal to my morality and interests. 
 - How do they relate to the values and goals you have for yourself in your job search?
+  - These industries can positively affect the world in ways that I personally care about. 
 
 
 ### 2. Build your resume
