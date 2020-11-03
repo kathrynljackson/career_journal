@@ -1,13 +1,13 @@
-Mod 3 Week 2: The Application Process
-Answer the below questions in a separate gist and link them into your career journal using this template:
+# Mod 3 Week 2: The Application Process
+### Answer the below questions in a separate gist and link them into your career journal using this template:
 
 Week 2: [Link here to your gist]
 
-[ ] (completed)
+- [ ] (completed)
 
-[ ] (partially complete)
+- [ ] (partially complete)
 
-[ ] (not started)
+- [ ] (not started)
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you’ll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track):
 
