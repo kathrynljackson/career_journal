@@ -48,6 +48,7 @@ If you will not be able to complete your journal this week, please provide an up
 - Fill out the fields with your Name and Email and the promo code Turing2005
 - Upload your resume
 - Based on the feedback you received from CV Compiler, what updates will you make to your resume?
+   - My resume says that I have a successful career as a teacher, but doesn't show my abilities or interests when it comes to programming. I need to add more Soft skills annd user more language that alludes to my skills as a developer. 
 
 ### 4. Set up your Turing Alumni Portfolio:
 - Log in with the link you got in your email. Going forward, log in at alumni.turing.io/user
@@ -56,6 +57,9 @@ If you will not be able to complete your journal this week, please provide an up
 - Reflection questions:
 - What do you want this portfolio to say about you?
 - How will you continue to add to this to portray your story and showcase the kind of work that demonstrates your brand?
+   - Right now, my portfolio simply says that I am professional and have an edication in programming. I need to decide what fields I am interested in so that I can tailor the information to represent me well. 
+
 
 ### 5. Ian's Workshop
 Ian’s workshop this week is designed to help you break down your interest in specific industries even further by exploring their tech stacks to decide if you want to utilize any of their tools in upcoming projects. Make a copy of his [template](https://docs.google.com/spreadsheets/d/1Ncn2w6l3SaXOM71ZHcBPutxCoFOhHNlDa56Xuzz0SHs/edit#gid=0) here and post a link to your copy here to show what research you’ve completed. You can also link this research to your Huntr board.
+- https://docs.google.com/spreadsheets/d/1EEf9ptYSrRTpINuJ8EJfPj01ujCkbbI5j1yal99IQfQ/edit?usp=sharing
